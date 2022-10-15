@@ -1,0 +1,16 @@
+@font-face {
+    font-family:nos ;
+    src: url(fonts/Education\ Childsmart.ttf);
+}
+@font-face {
+    font-family: clos;
+    src: url(fonts/LovelyRabbitDemoRegular.ttf);
+}
+
+h2,h3{
+    font-family: nos;
+    font-size: 40px;
+}
+p{
+    font-family: clos;
+}
